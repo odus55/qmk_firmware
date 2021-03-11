@@ -18,6 +18,7 @@ NKRO_ENABLE = yes     # USB Nkey Rollover
 AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = no
 SERIAL_LINK_ENABLE = no
+TAP_DANCE_ENABLE = yes
 
 
 # Enter lower-power sleep mode when on the ChibiOS idle thread
